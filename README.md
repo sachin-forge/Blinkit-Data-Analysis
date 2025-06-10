@@ -1,10 +1,10 @@
-# 📊 Blinkit Data Analysis (Python - Jupyter Notebook)
+# Blinkit Data Analysis (Python - Jupyter Notebook)
 
 This repository contains a comprehensive data analysis project on Blinkit (formerly Grofers), an Indian instant grocery delivery service. The goal of this project is to extract insights from raw data by performing data cleaning, visualization, and KPI calculation using Python.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 The project covers:
 
@@ -16,7 +16,7 @@ The project covers:
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 Blinkit-Data-Analysis/
 ├── Blinkit Analysis in Python.ipynb # Main Jupyter Notebook
@@ -26,7 +26,7 @@ Blinkit-Data-Analysis/
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.x**
 - **Jupyter Notebook**
@@ -38,7 +38,7 @@ Blinkit-Data-Analysis/
 ---
 
 
-## 📌 Key Insights & KPIs
+## Key Insights & KPIs
 
 - **Item Fat Content**
 - **Item Identifier**
@@ -55,7 +55,7 @@ Blinkit-Data-Analysis/
 
  > These KPIs help evaluate Blinkit's performance and assist in making business decisions based on trends and patterns.
 
-## ✅ How to Run
+## How to Run
 
 1. Clone this repository:
    ```bash
